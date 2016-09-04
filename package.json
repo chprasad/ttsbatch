@@ -4,6 +4,7 @@
   "license": "Unlicense",
   "author": "Prasad Chodavarapu",
   "dependencies": {
+    "async": "^2.0.1",
     "wget-improved": "^1.3.0",
     "xhr2": "^0.1.3"
   }
